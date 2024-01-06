@@ -11,7 +11,7 @@ The focus of the project is to learn how to use technology to enhance my creativ
 
 I also believe the "divide" between physical and digital projects are largely arbitrary and am fasinated by opportunities to explore their intersection.
 
-<iframe src="https://www.youtube.com/embed/6LqBJzLB5jg?si=MswVt9LqOOkNqgnj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" style="position: relative; width: 100%;" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/6LqBJzLB5jg?si=MswVt9LqOOkNqgnj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" style="position: relative; height: 100%; width: 100%;" allowfullscreen></iframe>
 
 As of January 1, 2024, my fabrication and design skills are limited and not where I'd like them to be. I've decided I want to learn new skills in a series of sprints, inspired by projects such as "The First 20 Hours" and Mike Boyd's learn quick. 
 
