@@ -21,9 +21,15 @@ author: Dallas Blowers
 
 navbar-links:
   About Me: "aboutme"
+  Projects:
+    - This Website: "websitedev"
+    - Homeserver: "homeserver"
+  Newsletter: "newsletter"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
+    - Booklist with notes: "booklist"
+  Contact Me: "contact"
   Author's home: "https://deanattali.com"
 
 ################
@@ -97,7 +103,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+#url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -128,16 +134,16 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#a3d2ca"
+navbar-col: "#CF5331"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#F0DBAF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#a3d2ca"
+footer-col: "#CF5331"
 footer-text-col: "#FFFFFF"
-footer-link-col: "#404040"
+footer-link-col: "#FFFFFF"
 footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
