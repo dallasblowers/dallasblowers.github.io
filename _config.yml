@@ -22,13 +22,14 @@ author: Dallas Blowers
 navbar-links:
   About Me: "aboutme"
   Projects:
+    - Running List: "laboratory"
     - This Website: "websitedev"
-    - Homeserver: "homeserver"
+    - Home Server: "homeserver"
   Newsletter: "newsletter"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-    - Booklist with notes: "booklist"
+    - Learning Resources with Notes: "booklist"
   Contact Me: "contact"
   Author's home: "https://deanattali.com"
 
