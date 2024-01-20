@@ -22,7 +22,16 @@ Welcome to my project ideas tracker! Here, I'm sharing the various ideas that cr
   - I recently saw a video of a lego snowblower and have previously seen videos of 3d printed mini lawnmowers. I was wondering if I could channel the same energy into a snowplowing/throwing version. 
 
 - **Recreate a childhood lab like Jimmy Neutron or Dexter's Lab:**
-  - Admittedly, this is a pipe dream, but the concept is just so fun. It'd be cool to someday be able to purchase some land, get all the permits etc. and make an homage to these childhood inspirations.  
+  - Admittedly, this is a pipe dream, but the concept is just so fun. It'd be cool to someday be able to purchase some land, get all the permits etc. and make an homage to these childhood inspirations.
+
+- **Bookmark Buddy:**
+  - As I was reading a library book I realized I would like to give new life to an old friend - the bookmark. I think it would be fantastic to have a bookmark that has a lense and memorychip built-in, so I can keep an analoge reading experience, but still have the ability to "save" impactful sections for later writing, thought, or dialogue.
+
+- **A More Perfect Pitch:**
+  - I love singing for fun and would like to improve, but currently can't justify singing lessons. I wonder if it'd be possible to have a version of a vocal coach using AI and popular music. The idea would be to collect songs I like, and map the pitch, timing etc, then record my own voice and have the AI attempt to see how well I "match" the rendition.
+ 
+- **Silent Soliloquy:**
+  - I recently saw these masks that are suppose to allow singers to warm up without distrubing those around them. I wonder if the idea could be modified slightly to include a microphone so that you could "soliloquy" your thoughts without driving those around you (or neighbors) mad. 
 
 ## Being Researched
 
